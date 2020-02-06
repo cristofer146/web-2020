@@ -1,39 +1,5 @@
-h1 { 
-    
-    padding: 0;
-}
+p{color: red;}
+p{color: blue;}
 
-p,div{ color: blue; }
-    
-#lista li:nth-child(2){
-    color: red;
-}
-
-
-#page div{
-    color: blue;
-}
-
-  p{ font-size: 4em;   }
-
- h1 { font-size: 2em;   }
-#contenedor #principal h2 { font-size: 1.8em; }
-#contenedor #principal h3 { font-size: 1.6em; }
-
-
-
-
-h1 {
-    position: absolute;  
-    right:18;
-    bottom: 18px;
-  
-    width: px;        
-    height: 200px;
-  
-    color: blue;
-}        
-   
-  p a{
-      color: red;
-  }
+p#especial {color: red;}
+p{color:blue;}
