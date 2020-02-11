@@ -9,7 +9,7 @@ h1{
         background-color: brown; 
         border: bisque;
         color: white;
-        padding: 14px 45px;
+        padding: 15px 30px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -21,5 +21,9 @@ h1{
       }
 
       header a {
+        color: white;
+      }
+
+      ol li{
         color: white;
       }
