@@ -1,15 +1,25 @@
 h1{
-  font-family: monospace;
+  font-family: initial;
 }
     
-
-    .btn {
-        background-color: #4CAF50; 
-        border: none;
+h1{
+  color: black;
+}
+    .btn  {
+        background-color: brown; 
+        border: bisque;
         color: white;
-        padding: 14px 40px;
+        padding: 14px 45px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 25px;
+        font-size: 14px;
+      }
+
+      body{
+        background-image: url(imagen/descarga04.jpg);
+      }
+
+      header a {
+        color: white;
       }
