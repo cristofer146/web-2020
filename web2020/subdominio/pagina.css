@@ -9,17 +9,21 @@ h1{
         background-color: brown; 
         border: bisque;
         color: white;
-        padding: 14px 45px;
+        padding: 14px 30px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 14px;
+        font-size: 18px;
       }
 
       body{
-        background-image: url(imagen/descarga04.jpg);
+        background-image: url(imagen/descarga02.png);
       }
 
       header a {
         color: white;
+      }
+
+      h3{
+        color: mediumslateblue;
       }
