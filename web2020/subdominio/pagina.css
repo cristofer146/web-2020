@@ -1,5 +1,5 @@
 h1{
-  font-family: initial;
+  font-family: serif;
 }
     
 h1{
@@ -9,11 +9,11 @@ h1{
         background-color: brown; 
         border: bisque;
         color: white;
-        padding: 14px 30px;
-        text-align: center;
+        padding: 12px 25px;
+       
         text-decoration: none;
         display: inline-block;
-        font-size: 18px;
+        font-size: 15px;
       }
 
       body{
@@ -26,4 +26,13 @@ h1{
 
       h3{
         color: mediumslateblue;
+        font-family: 'Times New Roman', Times, serif;
+      }
+
+      ol li{
+        font-weight: bold;
+      }
+
+      h3{
+     color: mediumslateblue
       }
