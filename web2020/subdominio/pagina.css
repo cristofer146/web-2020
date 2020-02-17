@@ -6,10 +6,10 @@ h1{
   color: black;
 }
     .btn  {
-        background-color: brown; 
+        background-color: co; 
         border: bisque;
         color: white;
-        padding: 12px 20px;
+        padding: 12px 37px;
        
         text-decoration: none;
         display: inline-block;
@@ -38,7 +38,7 @@ h1{
       }
 
     img#especial {
-      width: 200px;
+      width: 250px;
     } 
 
     
