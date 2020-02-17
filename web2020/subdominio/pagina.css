@@ -5,11 +5,11 @@ h1{
 h1{
   color: black;
 }
-    .btn  {
-        background-color: co; 
+    .navegacion  {
+        background-color: coral; 
         border: bisque;
         color: white;
-        padding: 12px 37px;
+        padding: 12px 28px;
        
         text-decoration: none;
         display: inline-block;
@@ -40,5 +40,7 @@ h1{
     img#especial {
       width: 250px;
     } 
+
+    
 
     
