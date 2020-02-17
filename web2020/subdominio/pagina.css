@@ -9,11 +9,11 @@ h1{
         background-color: brown; 
         border: bisque;
         color: white;
-        padding: 12px 25px;
+        padding: 12px 20px;
        
         text-decoration: none;
         display: inline-block;
-        font-size: 15px;
+        font-size: 13px;
       }
 
       body{
@@ -36,3 +36,9 @@ h1{
       h3{
      color: mediumslateblue
       }
+
+    img#especial {
+      width: 200px;
+    } 
+
+    
