@@ -9,11 +9,11 @@ h1{
         background-color: limegreen;
         border: bisque;
         color: white;
-        padding: 12px 15px;
+        padding: 16px 15px;
        
         text-decoration: none;
         display: inline-block;
-        font-size: 15px;
+        font-size: 30px;
       }
 
       body{
@@ -38,14 +38,20 @@ h1{
       }
 
     img#especial {
-      width: 250px;
+      width: 200px;
+      
     }
     
     img#hola{
       width:  200px;
       
+      
+    }
+
+    img#jesus{
+      width: 1000px;
+      height: 400px;
     }
 
     
-
     
