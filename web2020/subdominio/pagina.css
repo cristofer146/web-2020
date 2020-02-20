@@ -6,14 +6,14 @@ h1{
   color: black;
 }
     .navegacion  {
-        background-color: limegreen;
+        background-color: black;
         border: bisque;
         color: white;
-        padding: 16px 15px;
+        padding: 19px 11px;
        
         text-decoration: none;
         display: inline-block;
-        font-size: 30px;
+        font-size: 25px;
       }
 
       body{
@@ -51,6 +51,11 @@ h1{
     img#jesus{
       width: 1000px;
       height: 400px;
+    }
+
+
+    form#group{
+    background-color: red;
     }
 
     
