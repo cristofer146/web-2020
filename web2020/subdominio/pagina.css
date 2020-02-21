@@ -83,3 +83,9 @@ padding-top: 35px;
     img#como{
       padding-top: 20px;
     }
+
+    footer address{
+      background-color: black;
+      color:white;
+      padding: 10px 0px
+    }
